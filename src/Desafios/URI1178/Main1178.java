@@ -8,7 +8,7 @@ import java.util.Scanner;
 import java.math.BigDecimal;
 import java.text.DecimalFormat;
 
-class Main1192 {
+class Main1178 {
     public static void main(String[] args) {
         Scanner leitor = new Scanner(System.in);
         double X = 0; X = leitor.nextDouble();
