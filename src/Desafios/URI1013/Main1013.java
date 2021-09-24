@@ -19,5 +19,10 @@ public class Main1013 {
             if (B > C){ System.out.println(B + " eh o maior"); }
             else { System.out.println(C + " eh o maior"); }
         }
+
+//        int maiorEntreAB = (A + B + Math.abs(A - B)) / 2;
+//        int maiorEntreABC = (maiorEntreAB + C + Math.abs(maiorEntreAB - C)) / 2;
+//        System.out.println(maiorEntreABC + " eh o maior");
+
     }
 }
