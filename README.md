@@ -25,14 +25,3 @@
 #### URI1192 - O jogo Matemático de Paula -> Uma expressão matemática contendo três caracteres, um número, uma letra, e outro número. Com a expressão será possível somar, subtrair e multiplicar, conforme as regras estipuladas.
 
 #### URI2883 - Evitando Chuva -> descubrir quantos guarda-chuvas Rafael deve comprar e guardar em casa e no escritório, de modo que ele nunca se molhe e nunca precise carregar o guarda-chuva quando não estiver chovendo.
-
-
-
-
-
-
-
-
-
-
-
