@@ -1,6 +1,6 @@
 package Desafios.URI1006;
 /*
-*https://www.urionlinejudge.com.br/judge/pt/problems/view/1006
+* https://www.urionlinejudge.com.br/judge/pt/problems/view/1006
 *************************** Media 2 ***************************
 */
 
@@ -16,7 +16,8 @@ public class Main1006Modularized {
         double B = readDouble("");
         double C = readDouble("");
 
-        System.out.printf("MEDIA = %,.1f", calculateMedia(A,B,C));
+        printMedia(calculateMedia(A,B,C));
+
     }
 
     public static double readDouble(String txt) throws IOException {
@@ -27,5 +28,7 @@ public class Main1006Modularized {
     public static double calculateMedia(double A, double B, double C) {
         return (((A * 2) + (B * 3) + (C * 5)) / 10);
     }
+
+    public static void printMedia(double media){ System.out.printf("MEDIA = %,.1f", media); }
 
 }
